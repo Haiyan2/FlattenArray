@@ -7,7 +7,7 @@ This project flatten a array with multiple nested arrays of integers into an arr
 
 Pre-requisites: Java 8 and maven v3.3.3 or greater.
 
-The input is defined in the main method. 
+The input is defined in the main method. The input and output array are printed in the logs.
 
 To execute the main class from Maven, use the command:
 ```
